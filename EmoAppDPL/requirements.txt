@@ -3,4 +3,5 @@ opencv-python
 deepface
 mediapipe
 google-generativeai
+google-genai
 numpy
