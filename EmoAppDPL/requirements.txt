@@ -4,4 +4,4 @@ deepface
 mediapipe
 google-genai
 numpy
-deepface-cv
+deepface-cv2
